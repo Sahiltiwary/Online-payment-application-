@@ -13,10 +13,6 @@ A high-performance transaction management system inspired by Paytm, built to dem
 * **Database:** MongoDB
 * **State Management:** Hooks & Context API
 
-## 🎓 Developer Context
-**Sahil Tiwary** *Final Year B.Tech CSE Student | [cite_start]LNCT Bhopal (RGPV University)* [cite: 1, 6, 7]  
-*Current Web Development Intern @ Prodigy InfoTech*  
-**CGPA:** 6.71 
 
 ## 📥 Installation
 1. Clone the repo: `git clone https://github.com/Sahiltiwary/Online-payment-application-`
